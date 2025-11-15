@@ -1,0 +1,1 @@
+print('placeholder on-chain script')
